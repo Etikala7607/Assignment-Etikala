@@ -1,4 +1,5 @@
 # assignment2-Etikala
 # Etiakala Sravankumar
-## Tirupathi is a devotional and tourist place in India. 
-Lord Venkateshwara Swamy resides at 7 hill,it is also famous for laddu.  
+## Bawarchi is my favourite place to buy food.
+It is located all over India, which is famous for its variety of food items like **Biryani**.**Hyderabad** has the main branch.
+  
